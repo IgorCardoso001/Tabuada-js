@@ -30,6 +30,8 @@ section {
     margin-left: 5px;
     width: 50%;
     max-width: 250px;
+    height: 200px;
+    overflow-y: auto;
 }
 
 #input, #button, #select {
